@@ -6,7 +6,7 @@ Rediseño de las secciones "Nosotros" y "Colabora
 
 Para poder ver el avance del proyecto en vivo y las modificaciones, ingresa al siguiente link
 
-https://LautaG.github.io/Socios-red/
+https://lautag.github.io/Socios.red/
 
 ## Proceso ⚙️
 
